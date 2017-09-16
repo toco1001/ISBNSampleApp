@@ -12,6 +12,7 @@
 		DD0A35DF1F6C087000FCA2B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD0A35DD1F6C087000FCA2B9 /* Main.storyboard */; };
 		DD0A35E11F6C087000FCA2B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD0A35E01F6C087000FCA2B9 /* Assets.xcassets */; };
 		DD0A35E41F6C087000FCA2B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD0A35E21F6C087000FCA2B9 /* LaunchScreen.storyboard */; };
+		DDC7CD731F6CB51A00EE13A2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDC7CD721F6CB51A00EE13A2 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DD0A35E01F6C087000FCA2B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD0A35E31F6C087000FCA2B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD0A35E51F6C087000FCA2B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDC7CD721F6CB51A00EE13A2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				DD0A35DB1F6C087000FCA2B9 /* ViewController.swift */,
 				DD0A35DD1F6C087000FCA2B9 /* Main.storyboard */,
 				DD0A35E01F6C087000FCA2B9 /* Assets.xcassets */,
+				DDC7CD721F6CB51A00EE13A2 /* Images.xcassets */,
 				DD0A35E21F6C087000FCA2B9 /* LaunchScreen.storyboard */,
 				DD0A35E51F6C087000FCA2B9 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD0A35E41F6C087000FCA2B9 /* LaunchScreen.storyboard in Resources */,
+				DDC7CD731F6CB51A00EE13A2 /* Images.xcassets in Resources */,
 				DD0A35E11F6C087000FCA2B9 /* Assets.xcassets in Resources */,
 				DD0A35DF1F6C087000FCA2B9 /* Main.storyboard in Resources */,
 			);
@@ -306,6 +310,7 @@
 				DD0A35EA1F6C087000FCA2B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
